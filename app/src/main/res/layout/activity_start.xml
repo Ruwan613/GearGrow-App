@@ -38,7 +38,7 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:gravity="center"
-        android:text="Welcome to AGRI GUARD App "
+        android:text="Welcome to GearGrow App "
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"

@@ -11,7 +11,7 @@
     <ImageView
         android:id="@+id/appLogo"
         android:src="@drawable/logo"
-    android:layout_width="150dp"
+     android:layout_width="150dp"
     android:layout_height="150dp"
     android:layout_marginBottom="32dp"
     android:contentDescription="App Logo" />
@@ -19,41 +19,41 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Login"
+        android:text="Register"
         android:textSize="40sp"
         android:textStyle="bold"/>
 
     <!-- Email input -->
     <EditText
-        android:id="@+id/emailLogin"
+        android:id="@+id/emailRegister"
         android:hint="Email"
         android:inputType="textEmailAddress"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="12dp" />
+        android:layout_marginBottom="12dp"/>
 
     <!-- Password input -->
     <EditText
-        android:id="@+id/passwordLogin"
+        android:id="@+id/passwordRegister"
         android:hint="Password"
         android:inputType="textPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="12dp" />
+        android:layout_marginBottom="12dp"/>
 
-    <!-- Login button -->
+    <!-- Register button -->
     <Button
-        android:id="@+id/btnLogin"
-        android:text="Login"
+        android:id="@+id/btnRegister"
+        android:text="Register"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp" />
+        android:layout_marginBottom="16dp"/>
 
-    <!-- Link to Register -->
+    <!-- Login link -->
     <TextView
-        android:id="@+id/registerLink"
-        android:text="Don't have an account? Register"
+        android:id="@+id/loginLink"
+        android:text="Already have an account? Login"
         android:textColor="@android:color/holo_blue_dark"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"/>
 </LinearLayout>
