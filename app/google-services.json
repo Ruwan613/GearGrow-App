@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218626545984",
+    "project_id": "gear-grow-c11d2",
+    "storage_bucket": "gear-grow-c11d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218626545984:android:1f573c7d502a4da11d82a5",
+        "android_client_info": {
+          "package_name": "com.example.S23010411"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIO4CRNbV8QQTfk1bH3ooQf2DL4aFjDUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218626545984:android:03161e4d4f26890e1d82a5",
+        "android_client_info": {
+          "package_name": "com.ruwan.geargrow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIO4CRNbV8QQTfk1bH3ooQf2DL4aFjDUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
